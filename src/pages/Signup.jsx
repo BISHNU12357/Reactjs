@@ -19,7 +19,7 @@ const Signup = () => {
                     spacing={ '8' }
                     w={ ['full', '96'] }
                     m={ 'auto' }
-                    my={ '16' }
+                    my={ '15' }
                 >
                     <Heading textAlign={ "center" }>VIDEO HUB</Heading>
                     <Avatar alignSelf={ 'center' } boxSize={ '32' } />
